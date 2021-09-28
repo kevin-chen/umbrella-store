@@ -1,4 +1,15 @@
 # flask-api
+
+## Requirements
+
+- 
+- 
+
+## Design
+
+- 
+- 
+
 An example flask rest API server.
 
 To build production, type `make prod`.
