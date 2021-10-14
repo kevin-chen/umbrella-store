@@ -39,7 +39,7 @@ class Endpoints(Resource):
         return {"Available endpoints": endpoints}
 
 
-@api.route('/pets')
+@api.route('/umbrellas')
 class Pets(Resource):
     """
     This class supports fetching a list of all pets.
